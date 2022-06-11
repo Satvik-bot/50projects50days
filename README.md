@@ -1,7 +1,8 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
 This is a branched repo of the original repo. 
-I am completing these projects on a regular basis and forked it here so as to keep a track of my growth in web dev skills.
+
+I am currently working and learning via these projects and I've forked it so as to keep a track of my growth in web dev skills. 
 
 |  #  | Project                                                                                                                     | Status    |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
